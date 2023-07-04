@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Lizawati__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ## 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
@@ -63,12 +63,12 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="left">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drshahizan&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjn7702&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drshahizan&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjn7702&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
   
-  ![Follower Badge](https://img.shields.io/github/followers/drshahizan)
+  ![Follower Badge](https://img.shields.io/github/followers/jjn7702)
   ![](https://hit.yhype.me/github/profile?user_id=81284918)
  
 </details>
