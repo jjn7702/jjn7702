@@ -1,6 +1,4 @@
-# Hello, I'm Lizawati 👋
-
-## About Me
+## Hello, I'm Lizawati 👋
 I'm a passionate Computer Science Lecturer with expertise in programming, data structures, and algorithms. I enjoy teaching and mentoring students to excel in programming and problem-solving.
 
 ## Teaching Philosophy
