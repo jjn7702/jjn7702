@@ -1,4 +1,4 @@
-# Hello, I'm [Lizawati] 👋
+# Hello, I'm Lizawati 👋
 
 ## About Me
 I'm a passionate Computer Science Lecturer with expertise in programming, data structures, and algorithms. I enjoy teaching and mentoring students to excel in programming and problem-solving.
@@ -14,7 +14,7 @@ I believe in creating a stimulating and creative learning atmosphere. Hands-on t
 
 ## Classes I Teach
 - Programming Techniques
-- Data Structures and Algorithms
+- [Data Structures and Algorithms](https://github.com/jjn7702/SECJ2013-DSA)
 - Object Oriented Programming
 
 Looking forward to sharing knowledge and collaborating with fellow educators and students! Feel free to explore my repositories and get in touch.
