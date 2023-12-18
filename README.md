@@ -13,7 +13,7 @@ I believe in creating a stimulating and creative learning atmosphere. Hands-on t
 ## Classes I Teach 📝
 - Programming Techniques
 - [Data Structures and Algorithms](https://github.com/jjn7702/SECJ2013-DSA)
-- Object Oriented Programming
+- [Object Oriented Programming](https://github.com/jjn7702/SECJ2154-OOP)
 
 Looking forward to sharing knowledge and collaborating with fellow educators and students! Feel free to explore my repositories and get in touch.
 
