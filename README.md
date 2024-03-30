@@ -11,7 +11,7 @@ I believe in creating a stimulating and creative learning atmosphere. Hands-on t
 - Web Development: HTML, CSS, JavaScript, PHP, SQL, ASP.Net
 
 ## Classes I Teach 📝
-- Programming Techniques
+- Programming Technique II
 - [Data Structures and Algorithms](https://github.com/jjn7702/SECJ2013-DSA)
 - [Object Oriented Programming](https://github.com/jjn7702/SECJ2154-OOP)
 
